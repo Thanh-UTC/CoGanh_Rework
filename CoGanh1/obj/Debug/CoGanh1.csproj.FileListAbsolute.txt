@@ -1,0 +1,9 @@
+C:\Users\daoky\Documents\Visual Studio 2017\Projects\CoGanh1\CoGanh1\CoGanh1\CoGanh1\bin\Debug\CoGanh1.exe.config
+C:\Users\daoky\Documents\Visual Studio 2017\Projects\CoGanh1\CoGanh1\CoGanh1\CoGanh1\bin\Debug\CoGanh1.exe
+C:\Users\daoky\Documents\Visual Studio 2017\Projects\CoGanh1\CoGanh1\CoGanh1\CoGanh1\bin\Debug\CoGanh1.pdb
+C:\Users\daoky\Documents\Visual Studio 2017\Projects\CoGanh1\CoGanh1\CoGanh1\CoGanh1\obj\Debug\CoGanh1.Form1.resources
+C:\Users\daoky\Documents\Visual Studio 2017\Projects\CoGanh1\CoGanh1\CoGanh1\CoGanh1\obj\Debug\CoGanh1.Properties.Resources.resources
+C:\Users\daoky\Documents\Visual Studio 2017\Projects\CoGanh1\CoGanh1\CoGanh1\CoGanh1\obj\Debug\CoGanh1.csproj.GenerateResource.Cache
+C:\Users\daoky\Documents\Visual Studio 2017\Projects\CoGanh1\CoGanh1\CoGanh1\CoGanh1\obj\Debug\CoGanh1.exe
+C:\Users\daoky\Documents\Visual Studio 2017\Projects\CoGanh1\CoGanh1\CoGanh1\CoGanh1\obj\Debug\CoGanh1.pdb
+C:\Users\daoky\Documents\Visual Studio 2017\Projects\CoGanh1\CoGanh1\CoGanh1\CoGanh1\obj\Debug\CoGanh1.csprojResolveAssemblyReference.cache
